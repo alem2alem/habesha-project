@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../TinDog Completed Website"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bootstrap Project"
+	}
+}

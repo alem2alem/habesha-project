@@ -1,0 +1,29 @@
+{
+  "name": "bootstrap-project",
+  "version": "1.0.0",
+  "description": "This is a website for bootstrap project.",
+  "main": "index.html", 
+   "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alem2alem/habesha-project.git"
+  },
+  "author": "Jemal Hassen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alem2alem/habesha-project/issues"
+  },
+  "homepage": "https://github.com/alem2alem/habesha-project#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
